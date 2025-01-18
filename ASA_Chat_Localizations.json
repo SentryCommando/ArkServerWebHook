@@ -1,0 +1,86 @@
+{
+	"de": {
+		"Global": "Global",
+		"Tribe": "Stamm",
+		"Alliance": "Allianz",
+		"Local": "Lokal"
+	},
+	"da": {
+		"Global": "Global",
+		"Tribe": "Stamme",
+		"Alliance": "Alliance",
+		"Local": "Lokal"
+	},
+	"en": {
+		"Global": "Global",
+		"Tribe": "Tribe",
+		"Alliance": "Alliance",
+		"Local": "Local"
+	},
+	"es": {
+		"Global": "Global",
+		"Tribe": "Tribu",
+		"Alliance": "Alianza",
+		"Local": "Local"
+	},
+	"fr": {
+		"Global": "Général",
+		"Tribe": "Tribu",
+		"Alliance": "Alliance",
+		"Local": "Locale"
+	},
+	"it": {
+		"Global": "Globale",
+		"Tribe": "Tribù",
+		"Alliance": "Alleanza",
+		"Local": "Locale"
+	},
+	"ja": {
+		"Global": "全体",
+		"Tribe": "トライブ",
+		"Alliance": "同盟",
+		"Local": "ローカル"
+	},
+	"ko": {
+		"Global": "글로벌",
+		"Tribe": "부족",
+		"Alliance": "연맹",
+		"Local": "구역"
+	},
+	"nl": {
+		"Global": "Mondiaal",
+		"Tribe": "Stam",
+		"Alliance": "Bondgenootschap",
+		"Local": "Lokaal"
+	},
+	"pt-BR": {
+		"Global": "Global",
+		"Tribe": "Tribo",
+		"Alliance": "Aliança",
+		"Local": "Local"
+	},
+	"ru": {
+		"Global": "Всем",
+		"Tribe": "Племя",
+		"Alliance": "Альянс",
+		"Local": "Локально"
+	},
+	"tr": {
+		"Global": "Genel",
+		"Tribe": "Kabile",
+		"Alliance": "İttifak",
+		"Local": "Yerel"
+	},
+	"zh": {
+		"Global": "全服",
+		"Tribe": "部落",
+		"Alliance": "联盟",
+		"Local": "本地"
+	},
+	"zh-TW": {
+		"Global": "全服",
+		"Tribe": "部落",
+		"Alliance": "聯盟",
+		"Local": "本地"
+	}
+}
